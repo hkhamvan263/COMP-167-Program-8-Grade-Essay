@@ -32,13 +32,12 @@ Criteria for Grading a Student's Essay:
 		* commentary that explains the evidence
 		* contains a conclusion
 		* writing is relevant to the selected topic
-	* Essay Meets all of the Criteria: 30 points
-	* Essay meets most of the content criteria: 24 points
-
-		System.out.println("  - Enter 12 if the essay meets half of the content criteria");
-		System.out.println("  - Enter 6 if the essay meets some of the content criteria");
-		System.out.println("  - Enter 1 if the essay meets one of the content criteria");
-		System.out.println("  - Enter 0 if the essay meets none of the content criteria\n");
+	* Essay Meets All of the Content Criteria: 30 points
+	* Essay meets Most of the Content Criteria: 24 points
+	* Essay Meets Half of the Content Criteria: 12 points
+	* Essay meets Some of the Content Criteria: 6 points
+	* Essay meets 1 of the Content Criteria: 1 point
+	* Essay Meets None of the Content Criteria: 0 points
 
 ## ⚠️Warning⚠️
 Using code from these files as an assignment is a violation of Honor Code.
