@@ -1,6 +1,8 @@
 # COMP 167-03A Program 8: Grade Essay
 My eight programming assignment where I design the GradeEssay class that extends the GradedActivity class and determines student's essay grade.
 
+The maximum essay score is a 100, and the minimum essay score is a 0.
+
 The student's essay score can be up to 100 and is determined in the following manner:
 * Grammar: 30 points
 * Spelling: 20 points
