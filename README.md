@@ -5,10 +5,10 @@ The maximum essay score is a 100, and the minimum essay score is a 0.
 
 Criteria for Grading a Student's Essay:
 * Grammar is 30 points max
-	** No Grammatical Errors: 30 points
-	** A Few Grammatical errors: 25 points
-	** Moderate Grammatical Errors: 15 points
-	** Too Many Grammatical Errors: 0 points
+	* No Grammatical Errors: 30 points
+	* A Few Grammatical errors: 25 points
+	* Moderate Grammatical Errors: 15 points
+	* Too Many Grammatical Errors: 0 points
 * Spelling is 20 points max
 * Correct length is 20 points max
 * Content is 30 points
