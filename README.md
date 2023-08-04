@@ -40,4 +40,4 @@ Criteria for Grading a Student's Essay:
 	* Essay Meets None of the Content Criteria: 0 points
 
 ## ⚠️Warning⚠️
-Using code from these files as an assignment is a violation of Honor Code. Using code from these files for a hackathon or an internship is prohibited.
+Using code from this repository as an assignment is a violation of Honor Code and prohibited. Also, using code from this repository for a hackathon or an internship is prohibited.
