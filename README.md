@@ -3,7 +3,7 @@ My eighth programming assignment where I design the GradeEssay class that extend
 
 The maximum essay score is a 100, and the minimum essay score is a 0.
 
-The page requirements is 4-6 pages, with a minimum of 4 pages and a maximum of 6 pages.
+The page requirements is 4 to 6 pages, with a minimum of 4 pages and a maximum of 6 pages.
 
 Criteria for Grading a Student's Essay:
 * Grammar is 30 points max
