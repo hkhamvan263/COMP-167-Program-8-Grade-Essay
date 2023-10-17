@@ -1,4 +1,4 @@
-# COMP 167 Computer Program Design Program 8: Grade Essay
+# COMP 167 - Computer Program Design Program 8: Grade Essay
 My eighth programming assignment where I design the GradeEssay class that extends the GradedActivity class and determines student's essay grade.
 
 The maximum essay score is a 100, and the minimum essay score is a 0.
